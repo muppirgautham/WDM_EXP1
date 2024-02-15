@@ -53,6 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+## Training Data Set -> Employee Table
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/74e37be9-94ad-4d80-acf1-98ec8ee43f5a)
+## Training Data Set-> Weather Table
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/28a17bb7-e257-4014-b78a-9281acc17fe8)
+
 
 
 
@@ -75,6 +80,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## Employee Table after adding new attribute ADDRESS:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/c96f3708-81c6-4a6b-83a7-355ddcf73b6e)
+## Weather Table after adding new attribute CLIMATE:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/ba80f143-62ff-434a-bd64-3f1f51a48123)
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## Employee Table after removing attributes SALARY, GENDER:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/6d957450-cffd-4ddf-86c1-e8f73d1c0fc1)
+## Weather Table after removing attributes WINDY, PLAY:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/2e7343c8-7e47-4571-8963-9124c1bc4c18)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +123,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-### RESULT: 
-  Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+## Employee Table after Normalizing ID, EXP, PHONE:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/fab8e5a7-3af8-4a35-935f-c006bf94d33f)
+## Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+![image](https://github.com/muppirgautham/WDM_EXP1/assets/94810884/76226bb5-561c-446f-b280-ee90ea8e694c)
+
+### RESULT:
+Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+
+
